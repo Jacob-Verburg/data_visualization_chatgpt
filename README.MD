@@ -5,3 +5,5 @@ Create some CSV data containing two columns, a date column, and a temperature co
 
 #This made the main.py code
 Write an app using PyQT and matplotlib, where the user can select a date range, press a button and get a graph of temperature on the GUI for the selected dates.  The data should be taken from a CSV file which has a Date and a Temperature column.
+
+pip install pyqt5 matplotlib
